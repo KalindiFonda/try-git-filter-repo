@@ -1,0 +1,2 @@
+def party():
+  print("party")
